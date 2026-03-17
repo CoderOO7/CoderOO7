@@ -70,9 +70,9 @@ I believe in building software that is **scalable, reliable, and elegant.**
 # 🎧 Listening To
 
 <p align="center">
-<a href="https://open.spotify.com/track/6NtJKTVK5m1SYB9QAw7apw">
-<img src="https://github.com/user-attachments/assets/3afee890-734d-42e4-a10a-a46e119aa2c8" />
-</a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t1hxqqe3megyo4b2krh50pp6z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
 
 <br>
